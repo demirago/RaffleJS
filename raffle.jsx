@@ -64,7 +64,7 @@ function Raffle() {
   return (
     <div>
       <div>
-        <h1>INTELLY RAFFLE</h1>
+        <h1>RAFFLE</h1>
         <input
           type="text"
           ref={addressListRef}
